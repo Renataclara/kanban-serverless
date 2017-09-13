@@ -1,2 +1,4 @@
-# kanbanan
-kanban
+# Kanban serverless
+firebase
+vuefire
+vue
